@@ -1,0 +1,8 @@
+com\qa\guru99\pages\LoginPage.class
+com\qa\guru99\utils\CommonUtils.class
+com\qa\guru99\config\Configpop.class
+com\qa\guru99\Base\TestBase.class
+com\qa\guru99\stepdefs\Stepdefinition.class
+com\qa\guru99\pages\HomePage.class
+test\CapgemeniBasicFLow.class
+com\qa\guru99\runner\Runner.class
